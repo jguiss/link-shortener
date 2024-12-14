@@ -9,5 +9,5 @@ Save click data
 
 
 <ul>
-<li><a href="https://www.julienguiss.com" title="Julien Guiss">jguiss.com</a></li>
+<li><a href="https://www.julienguiss.com" title="Julien Guiss">Julien Guiss SEO</a></li>
 </ul>
